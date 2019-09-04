@@ -1,6 +1,6 @@
 # cJSON
 
-Ultralightweight JSON parser in ANSI C.
+Ultralightweight JSON parser in ANSI C. Customized by singku
 
 ## Table of contents
 * [License](#license)
